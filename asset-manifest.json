@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/cali_scelfo/static/css/main.56e6221f.css",
+    "main.js": "/cali_scelfo/static/js/main.c3a43603.js",
+    "static/js/787.b67f9308.chunk.js": "/cali_scelfo/static/js/787.b67f9308.chunk.js",
+    "static/media/logo.png": "/cali_scelfo/static/media/logo.2214e5c4106e7e51d452.png",
+    "index.html": "/cali_scelfo/index.html",
+    "main.56e6221f.css.map": "/cali_scelfo/static/css/main.56e6221f.css.map",
+    "main.c3a43603.js.map": "/cali_scelfo/static/js/main.c3a43603.js.map",
+    "787.b67f9308.chunk.js.map": "/cali_scelfo/static/js/787.b67f9308.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56e6221f.css",
+    "static/js/main.c3a43603.js"
+  ]
+}
