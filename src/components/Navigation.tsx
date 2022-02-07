@@ -9,12 +9,12 @@ export default function Navigation() {
         <div>
 <Navbar collapseOnSelect expand="lg" bg="dark" variant="dark">
   <Container>
-  <Navbar.Brand href="/"><img src={Logo} alt="" height="45px" /></Navbar.Brand>
+  <Navbar.Brand href="/cali_scelfo/"><img src={Logo} alt="" height="45px" /></Navbar.Brand>
   <Navbar.Toggle aria-controls="responsive-navbar-nav" />
   <Navbar.Collapse id="responsive-navbar-nav">
     <Nav className="me-auto">
-      <Nav.Link href="/about">About</Nav.Link>
-      <Nav.Link href="/contact">Contact</Nav.Link>
+      <Nav.Link href="/cali_scelfo/about">About</Nav.Link>
+      <Nav.Link href="/cali_scelfo/contact">Contact</Nav.Link>
     </Nav>
   </Navbar.Collapse>
   </Container>
