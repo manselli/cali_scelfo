@@ -1,4 +1,4 @@
-import { Route, BrowserRouter as Router, Routes } from 'react-router-dom';
+import { Route, Routes } from 'react-router-dom';
 import Navigation from './components/Navigation';
 import About from './components/pages/About';
 import Contact from './components/pages/Contact';
@@ -9,7 +9,7 @@ function App() {
    <>
   <Navigation />
   <Routes>
-    <Route path="/cali_scelfo/" element={<Home />} />
+    <Route path="/cali_scelfo" element={<Home />} />
     <Route path="/cali_scelfo/about" element={<About />} />
     <Route path="/cali_scelfo/contact" element={<Contact />} />
   </Routes>

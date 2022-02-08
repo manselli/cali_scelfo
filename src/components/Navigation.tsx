@@ -8,7 +8,7 @@ export default function Navigation() {
         <div>
 <Navbar collapseOnSelect expand="lg" bg="dark" variant="dark">
   <Container>
-  <Navbar.Brand href="/cali_scelfo/"><img src={Logo} alt="" height="45px" /></Navbar.Brand>
+  <Navbar.Brand href="/cali_scelfo"><img src={Logo} alt="" height="45px" /></Navbar.Brand>
   <Navbar.Toggle aria-controls="responsive-navbar-nav" />
   <Navbar.Collapse id="responsive-navbar-nav">
     <Nav className="me-auto">
