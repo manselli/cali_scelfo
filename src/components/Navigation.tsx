@@ -2,7 +2,6 @@ import React from 'react'
 import { Button, Container, Nav, Navbar } from "react-bootstrap";
 import { NavLink, useNavigate } from "react-router-dom";
 import Logo from './logo.png'
-import 'bootstrap/dist/css/bootstrap.min.css';
 
 export default function Navigation() {
     return (
