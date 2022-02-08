@@ -1,16 +1,20 @@
 {
   "files": {
     "main.css": "/cali_scelfo/static/css/main.56e6221f.css",
-    "main.js": "/cali_scelfo/static/js/main.d20cbe3e.js",
+    "main.js": "/cali_scelfo/static/js/main.c926fe7a.js",
     "static/js/787.b67f9308.chunk.js": "/cali_scelfo/static/js/787.b67f9308.chunk.js",
-    "static/media/logo.png": "/cali_scelfo/static/media/logo.2214e5c4106e7e51d452.png",
+    "static/media/immagine1.jpg": "/cali_scelfo/static/media/immagine1.069249e02d876c386bb0.jpg",
+    "static/media/immagine2.jpg": "/cali_scelfo/static/media/immagine2.76d55db537185c6cdc3c.jpg",
+    "static/media/logo.png": "/cali_scelfo/static/media/logo.29c95d8fec18f635c571.png",
+    "static/media/immagine3.jpg": "/cali_scelfo/static/media/immagine3.50914adc92c10ae139ce.jpg",
+    "static/media/profilo.jpg": "/cali_scelfo/static/media/profilo.53e65c12dde207771186.jpg",
     "index.html": "/cali_scelfo/index.html",
     "main.56e6221f.css.map": "/cali_scelfo/static/css/main.56e6221f.css.map",
-    "main.d20cbe3e.js.map": "/cali_scelfo/static/js/main.d20cbe3e.js.map",
+    "main.c926fe7a.js.map": "/cali_scelfo/static/js/main.c926fe7a.js.map",
     "787.b67f9308.chunk.js.map": "/cali_scelfo/static/js/787.b67f9308.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.56e6221f.css",
-    "static/js/main.d20cbe3e.js"
+    "static/js/main.c926fe7a.js"
   ]
 }
