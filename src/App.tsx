@@ -9,7 +9,7 @@ function App() {
    <>
   <Navigation />
   <Routes>
-    <Route path="/cali_scelfo" element={<Home />} />
+    <Route path="/cali_scelfo/" element={<Home />} />
     <Route path="/cali_scelfo/about" element={<About />} />
     <Route path="/cali_scelfo/contact" element={<Contact />} />
   </Routes>
